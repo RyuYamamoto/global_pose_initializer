@@ -3,7 +3,7 @@
 ## 1. How to Build
 Build TEASER++.
 ```bash
-git clone 
+git clone git@github.com:MIT-SPARK/TEASER-plusplus.git && cd TEASER-plusplus
 mkdir build && cd build
 cmake .. -DBUILD_TEASER_FPFH=ON
 make
